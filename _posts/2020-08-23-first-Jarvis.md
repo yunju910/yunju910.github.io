@@ -1,5 +1,5 @@
 ---
-title:  "�ں� 1����"
+title:  "자비스 1주차"
 
 toc: true
 toc_sticky: true
@@ -13,7 +13,7 @@ date: 2021-06-28
 
 ---
 
-## ù ��° �ں� Ȱ�� 
+## 첫 번째 활동 
 ```c
 #include <stdio.h>
 
