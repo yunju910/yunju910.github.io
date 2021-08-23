@@ -20,7 +20,7 @@ title                    : "나의 공부저장소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "윤주"
-description              : "An amazing website."
+description              : "나의 공부저장소"
 url                      : "https://yunju910.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요:)"
   location         : "JinJu"
-  email            :
+  email            : "k8151@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
